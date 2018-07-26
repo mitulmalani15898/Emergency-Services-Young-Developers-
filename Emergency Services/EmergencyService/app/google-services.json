@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "301362770578",
+    "firebase_url": "https://emergencyservice-5b9e8.firebaseio.com",
+    "project_id": "emergencyservice-5b9e8",
+    "storage_bucket": "emergencyservice-5b9e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301362770578:android:86a3f2953c5ac114",
+        "android_client_info": {
+          "package_name": "com.example.mitulmalani.emergencyservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301362770578-d7lq9ifpo2kkfbtmhgsjrl4o6tjkatos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mitulmalani.emergencyservice",
+            "certificate_hash": "11088ebfa14586a2d05e52de3935a4ceef63c8eb"
+          }
+        },
+        {
+          "client_id": "301362770578-ur8btrpi32i6ugh95sjn008diu0holov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHmyww1oWTfIw7_3ESUcKPX8DjNSwEd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301362770578-ur8btrpi32i6ugh95sjn008diu0holov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
